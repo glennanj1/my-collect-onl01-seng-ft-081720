@@ -7,5 +7,5 @@ def my_collect(collections)
     yield(collections[i])
     binding.pry
     i += # i
-
+  end
 end
