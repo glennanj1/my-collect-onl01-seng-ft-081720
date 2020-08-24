@@ -5,5 +5,4 @@ def my_collect(collections)
   while collections < 0
     yield(collections[i])
     i += # i
-  
-end
+  end
